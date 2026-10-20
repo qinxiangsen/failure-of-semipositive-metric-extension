@@ -170,10 +170,13 @@ The per-snapshot archive identities are in
 
 Repository: [qinxiangsen/failure-of-semipositive-metric-extension](https://github.com/qinxiangsen/failure-of-semipositive-metric-extension).
 
-The fixed source release is pending completion of verification and upload. No
-fixed tag URL or source-release commit is asserted until that publication has
-actually occurred. The release metadata will identify the exact verified source
-version and its commit.
+Proof-source commit: [`e80dd4eaa2de87dc70902174cd371961d91bc1db`](https://github.com/qinxiangsen/failure-of-semipositive-metric-extension/commit/e80dd4eaa2de87dc70902174cd371961d91bc1db).
+
+Version: **v1.0.0** ([release page](https://github.com/qinxiangsen/failure-of-semipositive-metric-extension/releases/tag/v1.0.0)). The release tag identifies the final distribution commit; the proof-source commit above identifies the verified source before this citation-metadata update.
+
+Suggested supplementary-material sentence:
+
+> The Lean supplementary material for this paper is available as version v1.0.0 at https://github.com/qinxiangsen/failure-of-semipositive-metric-extension/releases/tag/v1.0.0.
 
 No open-source license has been selected on the author's behalf.
 
