@@ -1,0 +1,3 @@
+import FailureOfSemipositiveMetricExtension.HisamotoLocalExtensionEndpoint
+
+#check @FailureOfSemipositiveMetricExtension.Hisamoto.hisamoto_example_4_12_local_extension

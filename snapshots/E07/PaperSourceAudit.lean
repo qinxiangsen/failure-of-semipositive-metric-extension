@@ -1,0 +1,3 @@
+import FailureOfSemipositiveMetricExtension.TheoremAAnalyticAssembly
+
+#check @FailureOfSemipositiveMetricExtension.PaperTheoremA.actual_analytic_counterexample

@@ -1,0 +1,4 @@
+.lake/
+.fresh-build/
+__pycache__/
+*.pyc

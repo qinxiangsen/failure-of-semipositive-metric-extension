@@ -1,0 +1,4 @@
+import FailureOfSemipositiveMetricExtension.TheoremAAnalyticAssembly
+
+#check @FailureOfSemipositiveMetricExtension.PaperTheoremA.actual_analytic_counterexample
+#check @FailureOfSemipositiveMetricExtension.PaperTheoremA.actual_global_line_effective

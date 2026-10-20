@@ -1,0 +1,3 @@
+import FailureOfSemipositiveMetricExtension.IndependentCurrentCompleteEndpoint
+
+#check @FailureOfSemipositiveMetricExtension.GlobalIncidence.FixedFiberBundle.FreshCurrentBridge.actual_independent_current_full_residual
